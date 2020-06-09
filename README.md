@@ -18,5 +18,5 @@
 - 数据更新时间
 ## 使用方法
 1. 下载该项目
-2. 安装scrapy库`pip3 install requests` `pip3 install lxml`
+2. 安装相关库`pip3 install requests` `pip3 install lxml`
 3. 分别运行`python wdj_spider.py` `python xm_spider.py` `python yyb_spider.py`
